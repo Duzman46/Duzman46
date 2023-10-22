@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/search?q=yaz%C4%B1l%C4%B1m+resmi&tbm=isch&ved=2ahUKEwjvrprLu4mCAxU5mf0HHcT_BZoQ2-cCegQIABAA#imgrc=KbowmOyvkh9mkM)
 <h1 align="center">Hi 👋, I'm Hasan Furkan Duzman</h1>
 <h3 align="center">BSc Student at Trakya University of Computer Engineering</h3>
 
@@ -10,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/hasan-furkan-duzman-9a0a3524b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan-furkan-duzman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hasan-furkan-duzman-9a0a3524b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan-furkan-duzman" height="30" width="40" /></a>
 <a href="https://instagram.com/hasanfurkanduzman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasanfurkanduzman" height="30" width="40" /></a>
 </p>
 
