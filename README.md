@@ -1,23 +1,43 @@
-<h1 align="center">Hi 👋, I'm Hasan Furkan Duzman</h1>
-<h3 align="center">BSc Student at Trakya University of Computer Engineering</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duzman46&label=Profile%20views&color=0e75b6&style=flat" alt="duzman46" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duzman46" alt="duzman46" /></a> </p>
-
-- Reach me **furkanduzman46@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hasan-furkan-duzman-9a0a3524b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan-furkan-duzman" height="30" width="40" /></a>
-<a href="https://instagram.com/hasanfurkanduzman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasanfurkanduzman" height="30" width="40" /></a>
+<p align="center">
+  <img src="./profile-header.svg" alt="Hasan Furkan Duzman — Mobile apps, games and web experiences" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <strong>MSc student in Computer Engineering</strong><br />
+  Istanbul University-Cerrahpaşa
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duzman46&show_icons=true&locale=en&layout=compact" alt="duzman46" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hasan-furkan-duzman-9a0a3524b/">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:furkanduzman46@gmail.com">Email</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/Duzman46?tab=repositories">All repositories</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duzman46&show_icons=true&locale=en" alt="duzman46" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duzman46&" alt="duzman46" /></p>
+### About me
+
+I'm Hasan Furkan, a computer engineering MSc student who builds Android apps, games, and web applications. My projects range from a Kotlin strategy game with online multiplayer to Unity adventures and practical Python tools.
+
+### Selected projects
+
+| Project | What I built | Stack |
+| :--- | :--- | :--- |
+| **[Koridor](https://github.com/Duzman46/koridor)** | An Android strategy board game with AI opponents, online multiplayer, and ELO rankings. | Kotlin · Jetpack Compose · Firebase |
+| **[EmirTron](https://github.com/Duzman46/EmirTronGame)** | A cyberpunk game following a time-travelling character through combat and story encounters. | C# · Unity |
+| **[Halı Saha Yönetim](https://github.com/Duzman46/hali-saha-yonetim)** | A web app for football pitch reservations, customer management, and booking flows. | React · Vite · Ant Design |
+| **[Secret Notes](https://github.com/Duzman46/Secret-Notes)** | A desktop app for saving and decoding notes with a user-provided key. | Python · Tkinter |
+
+### Languages & tools
+
+**Mobile & games** &nbsp; Kotlin · Jetpack Compose · Firebase · C# · Unity  
+**Web** &nbsp; JavaScript · React · HTML · CSS  
+**Everyday toolkit** &nbsp; Python · C · Git · Linux
+
+<br />
+
+<p align="center">
+  <sub>More experiments: <a href="https://github.com/Duzman46/python_homework">Python practice</a> · <a href="https://github.com/Duzman46/hava-durumu">Android weather app</a> · <a href="https://github.com/Duzman46/Weather-App">Python weather app</a></sub>
+</p>

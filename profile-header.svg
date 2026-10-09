@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Hasan Furkan Duzman — Mobile apps, games and web experiences</title>
+  <desc id="desc">A midnight blue banner with mint accents and a geometric path motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#122f3d"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="1280" height="320" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="20" fill="url(#grid)"/>
+  <rect x="58" y="59" width="44" height="4" rx="2" fill="#5eead4"/>
+  <text x="116" y="68" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="3">DUZMAN46 / COMPUTER ENGINEERING</text>
+  <text x="56" y="148" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="52" font-weight="700" letter-spacing="-1.8">Hasan Furkan Duzman</text>
+  <text x="59" y="198" fill="#b8c9d9" font-family="Segoe UI,Arial,sans-serif" font-size="25">Mobile apps, games &amp; web experiences.</text>
+  <text x="59" y="262" fill="#5eead4" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="2.5">KOTLIN / UNITY / PYTHON / REACT</text>
+  <g fill="none" stroke="#5eead4" stroke-opacity=".18" stroke-width="1.5">
+    <rect x="958" y="63" width="224" height="194" rx="20"/>
+    <path d="M1014 63V257M1070 63V257M1126 63V257M958 112H1182M958 160H1182M958 209H1182"/>
+  </g>
+  <path d="M958 233H1014V184H1070V136H1126V87H1182" fill="none" stroke="url(#line)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="958" cy="233" r="7" fill="#5eead4"/>
+  <circle cx="1182" cy="87" r="8" fill="#38bdf8"/>
+</svg>
