@@ -1,0 +1,37 @@
+name: Refresh world energy
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - render_energy.py
+      - .github/workflows/world-energy.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: world-energy
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Render public contribution calendar
+        run: python3 render_energy.py --username Duzman46 --output world-energy.svg
+      - name: Save refreshed energy grid
+        run: |
+          git add -- world-energy.svg
+          if git diff --cached --quiet; then
+            echo "Energy grid is already current."
+          else
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m "Refresh world energy grid [skip ci]"
+            git push
+          fi
